@@ -22,6 +22,10 @@ I actively contribute to both **private engagements** and **public audit contest
 
 ---
 
+## ✍️ Writings
+
+[Understanding Overflow and Underflow Risks in Yul Compared to Solidity](https://techfund.jp/en/media/Understanding-Overflow-and-Underflow-Risks-in-Yul-Compared-to-Solidity)
+
 # Audit Tracker
 
 | Protocol/ Client      | Description                 | Report         | Provider                                |
@@ -52,10 +56,6 @@ I actively contribute to both **private engagements** and **public audit contest
 | Fans | Vault         | 🔒 [Private]         | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
 
 ---
-
-# ✍️ Writings
-
-[Understanding Overflow and Underflow Risks in Yul Compared to Solidity](https://techfund.jp/en/media/Understanding-Overflow-and-Underflow-Risks-in-Yul-Compared-to-Solidity)
 
 
 _Always open to connecting with like-minded people in the blockchain and security space!_
