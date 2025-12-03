@@ -2,8 +2,8 @@
 
 ## 👋 Hi there, I'm Mohit Yadav
 
-Currently working as a **Security Researcher at TECHFUND**, where I specialize in auditing smart contracts across **Solidity**, **Sway**, and more recently, **Move**.  
-I actively contribute to both **private engagements** and **public audit contests**, continuously expanding my expertise and impact in the blockchain security space.
+I'm a **Security Researcher**, with skills in auditing smart contracts across **Solidity**, **Sway**, and more recently, **Move**.  
+I actively contribute to both **private engagements** and **public audit contests**, continuously expanding my expertise and impact within the blockchain security space.
 
 ---
 
@@ -21,5 +21,39 @@ I actively contribute to both **private engagements** and **public audit contest
 - Telegram : [@alter_mohit](https://t.me/alter_mohit)  
 
 ---
+
+# Audit Tracker
+
+| Protocol/ Client      | Description                 | Report         | Provider                                |
+|---------------|-----------------------------|----------------|-----------------------------------------|
+| ThunderNFT | NFT auction platform         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/thundernft%20audit%20by%20safe%20edges.pdf)           | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Swaylend | Lending & Borrowing         |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/swaylend%20audit%20report%20by%20safe%20edges.pdf)         | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Griffy | Prediction Market         |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/griffy-audit-report.pdf)          | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| FuelUp | Memecoin Launchpad        |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/fuelp%20up%20report..pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Clique | Vesting        | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/clique%20final%20report%20by%20SE.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Zap | Wallet Ecosystem        |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/zap-audit.pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Redstone | Oracle         |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Redstone%20Audit%20Report.pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Fluid | Stablecoin         |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Fluid%20Audit%20Report%20By%20Safe%20Edges.pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Hyperlane | X-chain         |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Hyperlane%20Audit%20Report%20by%20Safe%20Edges.pdf)         |[<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Clique | Airdrop        | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Clique%20Audit%20Report%20by%20Safe%20Edges.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Clique | Raffle        | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Clique%20audit-report-security-audit-2025-10-23%20By%20Safe%20Edges.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Clique | EIP7702         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Clique-EIP7702-audit-report-2025-11-04%20BY%20SE.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| J-Memepad | Memecoin Launchpad        |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/J-memepad%20audit%20report.pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Raffle | Raffle         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Raffl3%20Final%20Audit%20Report%20By%20SAFEEDGES.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Riglabs | Oracle         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Riglabs%20audit%20Report.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Stork | Oracle        |[Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Stork%20Audit%20Report%20By%20Safe%20Edges.pdf)             | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Riglabs | Airdrop         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Moor%20Token-airdrop%20Draft%20Audit%20report%20By%20SE.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Xenea | Bridge         | [Report](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/XENEA%20BRIDGE%20AUDIT%20REPORT.pdf)            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Clique | Vault         | 🔒 [Private]         | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Oasysfun | DeX         | 🔒 [Private]            | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+| Uponly | Vault         | 🔒 [Private]         | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/)|
+| Fans | Vault         | 🔒 [Private]         | [<img src="https://avatars.githubusercontent.com/u/186713095?v=4" alt="Logo" width="40" />](https://safeedges.in/) |
+
+
+
+
+
+<!-- Image references -->
+[safeedges-logo]: assets/safeedges.png
 
 _Always open to connecting with like-minded people in the blockchain and security space!_
